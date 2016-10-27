@@ -22,9 +22,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/types/npm-jsonld/issues"
+    "url": "https://github.com/types/npm-passport-strategy/issues"
   },
-  "homepage": "https://github.com/types/npm-jsonld#readme",
+  "homepage": "https://github.com/types/npm-passport-strategy#readme",
   "devDependencies": {
     "greenkeeper-postpublish": "^1.0.1",
     "passport-strategy": "^1.0.0",
