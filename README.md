@@ -1,5 +1,7 @@
 # Typed Passport Strategy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-passport-strategy.svg)](https://greenkeeper.io/)
+
 The type definition for [`passport-strategy`](https://github.com/jaredhanson/passport-strategy).
 
 ## Usage
